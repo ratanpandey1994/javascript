@@ -25,3 +25,11 @@ Syntax: -
  function_name( );
 Ex: -
 display( );
+================================
+Rules
+• Function name only starts with a letter, an underscore ( _ ).
+• Function name cannot start with a number. 
+• Do not use reserved keywords. e.g. else, if etc.
+• Function names are case-sensitive in JavaScript
+
+=================================
