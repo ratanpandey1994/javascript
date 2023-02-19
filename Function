@@ -1,2 +1,8 @@
--> Function are subprograms which are used to compute a value or perform a 
+Function are subprograms which are used to compute a value or perform a 
 task.
+==================================
+Type of Function:
+1.Library or Built-in Function
+ex. valueOf(), write(), alert() etc
+2.User-define Funtion
+
