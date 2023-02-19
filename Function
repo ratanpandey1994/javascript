@@ -1,8 +1,27 @@
-Function are subprograms which are used to compute a value or perform a 
+=>Function are subprograms which are used to compute a value or perform a 
 task.
 ==================================
 Type of Function:
 1.Library or Built-in Function
 ex. valueOf(), write(), alert() etc
 2.User-define Funtion
+=================================
+=>Creating a Function
+Syntax: -
+function function_name( )
+{
+ Block of statement;
+}
 
+Ex. 
+function display( )
+{
+ document.write(“Geekyshows”);
+}
+
+================================
+=>Calling a Function
+Syntax: -
+ function_name( );
+Ex: -
+display( );
