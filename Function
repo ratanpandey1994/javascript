@@ -52,3 +52,11 @@ function display(name)
 • JavaScript functions do not check the number of arguments received.
 
 ===============================
+Ex.
+function display1(name1, name2) {
+    document.write(name1 + " to " + name2);
+ }
+ display1("Ratan", "Code");
+ 
+ =============================
+ 
