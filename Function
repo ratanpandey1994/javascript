@@ -33,3 +33,15 @@ Rules
 • Function names are case-sensitive in JavaScript
 
 =================================
+=>Function with Parameters
+
+Syntax: -
+function function_name (parameter1, parameter2, ….)
+ {
+ Block of statement; 
+ }
+Ex: -
+function display(name)
+ {
+ document.write(name);
+ }
